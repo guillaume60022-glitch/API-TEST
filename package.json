@@ -1,0 +1,21 @@
+{
+  "name": "api-produits",
+  "version": "1.0.0",
+  "description": "API REST de gestion de produits avec Node.js et Express",
+  "keywords": [
+    "api",
+    "rest",
+    "nodejs",
+    "express",
+    "produits"
+  ],
+  "license": "ISC",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
